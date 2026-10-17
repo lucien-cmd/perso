@@ -94,5 +94,21 @@ Ce diaporama suit la même structure que le pitch : chaque diapositive correspon
 à une partie du discours. La diapositive 6 est à compléter avec la raison
 personnelle, comme le `[À COMPLÉTER]` du pitch.
 
-Icônes : [OpenMoji](https://openmoji.org), licence
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Chaque diapositive a une photo en plein écran avec un voile bleu nuit pour
+l'intégrer au thème. Photos libres :
+
+| Diapositive | Photo | Auteur | Licence | Lien |
+| --- | --- | --- | --- | --- |
+| Titre | « Bocelli-concert-crowd-in-abu-dhabi » | Amajali | CC BY-SA 3.0 | [source](https://commons.wikimedia.org/w/index.php?curid=26345301) |
+| Je ne promets pas… | « Bonham Road St Paul's College school building facade » | Hang Fung PPT | CC BY-SA 3.0 | [source](https://commons.wikimedia.org/w/index.php?curid=17126933) |
+| Trois missions | « Madrid Pride 2026 — Parade » | Barcex | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/w/index.php?curid=195902840) |
+| Compte rendu | « Writing with a fountain pen » | Aaron Burden | CC0 | [source](https://commons.wikimedia.org/wiki/File:Writing_with_a_fountain_pen_(Unsplash).jpg) |
+| Boîte à idées | « Lamp with lit incandescent light bulb » | Basile Morin | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Lamp_with_lit_incandescent_light_bulb_and_black_background.jpg) |
+| Pourquoi moi | « Environmental Education Session » | Tydziedzic | CC BY 4.0 | [source](https://commons.wikimedia.org/w/index.php?curid=181247636) |
+| Le slogan | « Vatican Museums Spiral Staircase Looking Up » | Colin | CC BY-SA 3.0 | [source](https://commons.wikimedia.org/w/index.php?curid=24585790) |
+| Vote | « Senate ballots and deputy voting ballots » | LauraHale | CC BY-SA 3.0 | [source](https://commons.wikimedia.org/w/index.php?curid=78411101) |
+
+Photos issues de [Wikimedia Commons](https://commons.wikimedia.org),
+recherchées via l'API [Openverse](https://api.openverse.org) et l'API Commons.
+Licences CC BY/CC BY-SA : si tu envoies le diaporama à quelqu'un d'autre
+(panneau, reprographie pour la classe), conserve cette attribution.
