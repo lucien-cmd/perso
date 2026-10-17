@@ -93,3 +93,6 @@ format 16:9) :
 Ce diaporama suit la même structure que le pitch : chaque diapositive correspond
 à une partie du discours. La diapositive 6 est à compléter avec la raison
 personnelle, comme le `[À COMPLÉTER]` du pitch.
+
+Icônes : [OpenMoji](https://openmoji.org), licence
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
