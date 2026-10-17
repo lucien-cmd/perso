@@ -73,3 +73,23 @@
   trois fois.
 - Répète à voix haute une fois chrono en main. Si tu dépasses 2 min 15,
   coupe le passage sur les trois choses et garde les deux promesses.
+
+## Support de présentation
+
+Le diaporama de campagne est dans `campagne-delegue-lucien.pptx` (8 diapositives,
+format 16:9) :
+
+| # | Diapositive |
+| --- | --- |
+| 1 | Titre : Lucien + slogan |
+| 2 | Le point de départ : je ne promets pas de changer le collège |
+| 3 | Le constat : trois missions, la troisième jamais faite |
+| 4 | Promesse n°1 : le compte rendu sous 24 h |
+| 5 | Promesse n°2 : la boîte à idées |
+| 6 | Pourquoi moi (à compléter) |
+| 7 | Le slogan en plein écran |
+| 8 | Appel au vote |
+
+Ce diaporama suit la même structure que le pitch : chaque diapositive correspond
+à une partie du discours. La diapositive 6 est à compléter avec la raison
+personnelle, comme le `[À COMPLÉTER]` du pitch.

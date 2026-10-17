@@ -20,6 +20,8 @@ classe.
 - **Alternative rimée** : « Un délégué pas moyen : Lucien. »
 - **Promesse clé** : présence à chaque conseil de classe, compte rendu
   systématique au groupe de classe, aucune idée laissée de côté.
+- **Documents** : `slogan.md` (slogan + pitch de 2 min),
+  `campagne-delegue-lucien.pptx` (diaporama de présentation).
 
 ## À propos de ce dossier
 
@@ -33,6 +35,8 @@ SEO, analytics, growth, etc.).
 ```
 perso/
 ├── AGENTS.md                  # Ce fichier
+├── slogan.md                  # Slogan + pitch de 2 minutes
+├── campagne-delegue-lucien.pptx  # Diaporama de campagne
 └── .opencode/skills/          # Skills marketing installés
     ├── product-marketing/     # Skill fondation (à lire en premier)
     ├── cro/
